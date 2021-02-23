@@ -50,7 +50,7 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background-image: url("https://github.com/herbieduah/herbieduah/blob/main/bgcolblack.gif");
+					background-image: url("https://github.com/herbieduah/herbieduah/blob/main/bgcolblack.gif?raw=true");
   					background-repeat: repeat;
 					border-radius: 10px;
 					color: white;
@@ -75,9 +75,9 @@
 				}
 			</style>
 			<div class="container">
-				<h1>Hi, I am Herbie</h1>
+				<!-- <h1>Hi, I am Herbie</h1> -->
 				<p>Welcome to my Github</p>
-				<img src="https://github.com/herbieduah/herbieduah/blob/main/bgcolblack.gif" alt="test"/>
+				<img src="https://github.com/herbieduah/herbieduah/blob/main/bgcolblack.gif?raw=true" alt="test"/>
 			</div>
 		</div>
 	</foreignObject>

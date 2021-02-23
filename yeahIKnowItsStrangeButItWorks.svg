@@ -50,8 +50,9 @@
 					margin: 0;
 					width: 100%;
 					height: 400px;
-					background-image: url("https://github.com/herbieduah/herbieduah/blob/main/bgcolblack.gif?raw=true");
-  					background-repeat: repeat;
+					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
+					background-size: 600% 400%;
+					animation: gradientBackground 10s ease infinite;
 					border-radius: 10px;
 					color: white;
 					text-align: center;
@@ -75,9 +76,8 @@
 				}
 			</style>
 			<div class="container">
-				<!-- <h1>Hi, I am Herbie</h1> -->
+				<h1>Hey you!</h1>
 				<p>Welcome to my Github</p>
-				<img src="https://github.com/herbieduah/herbieduah/blob/main/bgcolblack.gif?raw=true" alt="test"/>
 			</div>
 		</div>
 	</foreignObject>
